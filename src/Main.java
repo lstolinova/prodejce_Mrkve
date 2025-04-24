@@ -10,7 +10,7 @@ public class Main {
 
 
         System.out.println(prodejce1.getName()+" prodává "+ prodejce1.getMn_viMrkve()+ " tuny mrkve ročně");
-        System.out.println(prodejce2.getName()+" prodává "+ prodejce2.getMn_viMrkve()+ " tuny mrkve ročně");
+        System.out.println(prodejce2.getName()+" prodává "+ prodejce2.getMn_viMrkve()+ " tuny mrkve ročně ");
 
 
     }
